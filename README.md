@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/high-pie-pepper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/high-pie-pepper" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/karan.dangol.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/karan.dangol.96/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/karandangol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/karandangol/" height="30" width="40" /></a>
+<a href="https://codepen.io/high-pie-pepper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="high-pie-pepper" height="30" width="40" /></a>
+<a href="https://fb.com/karan.dangol.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karan.dangol.96/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karandangol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karandangol/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
